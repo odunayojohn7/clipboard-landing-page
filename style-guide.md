@@ -19,7 +19,7 @@ The designs were created to the following widths:
 ### Neutral
 
 - Gray 700: hsl(210, 10% 33%)
-- Gray 500: hsl(201, 11% 69%)
+- Gray 500: hsl(200, 6%, 69%)
 
 ### Body Copy
 
